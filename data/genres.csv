@@ -1,0 +1,676 @@
+genreId,genreName
+g_11,Space Opera
+g_12,Adventure
+g_13,Fairy Tale Film
+g_13,Fairy-Tale Film
+g_14,Fantasy
+g_15,Computer Animation
+g_15,Computeranimation
+g_16,Animation
+g_17,Familienfilm
+g_17,Family Film
+g_18,Drama
+g_18,dramatisch
+g_19,Romantic Drama
+g_20,Dogma 95
+g_22,Musical
+g_22,Musicals
+g_25,Danish Cinema
+g_27,Horror
+g_28,Action
+g_31,War Film
+g_32,Anti-War Film
+g_33,Romance Film
+g_34,Anime
+g_34,Anime Film
+g_34,Japanese Animation
+g_34,Japanese Animation Film
+g_35,Comedy
+g_35,Funny
+g_35,Kom??die
+g_36,Historical Film
+g_36,Historie
+g_36,History
+g_37,Western
+g_39,Slasher Film
+g_43,Utopia & Dystopia
+g_44,Social Drama
+g_49,Cult Favorite
+g_49,Cult Movie
+g_50,Hollywood Film
+g_51,Time Travel
+g_52,Apocalypse & Post-Apocalypse
+g_53,Thriller
+g_54,Destiny
+g_56,Black Comedy
+g_56,Dark Comedy
+g_56,Dark Comedy Film
+g_56,Schwarze Kom??die
+g_57,Retro Science Fiction
+g_57,Retro SF
+g_69,Coming Of Age
+g_69,Drama > Coming of Age
+g_71,Family Drama
+g_72,Dance Film
+g_73,Queer Film
+g_76,Conspiracy Thriller
+g_79,Mysterie
+g_79,mysteri??s
+g_79,Mystery Thriller
+g_80,Crime
+g_81,Kung-Fu
+g_81,Martial Arts
+g_81,Martial-Arts
+g_82,Eastern
+g_84,Myth
+g_85,Comic
+g_85,Graphic Novel
+g_86,Animalhorror
+g_87,Low Budget Film
+g_92,Political Drama
+g_99,Documentary
+g_99,Documentation
+g_101,Arranged Documentary
+g_101,Staged Documentary
+g_103,Natural Disaster
+g_104,Blockbuster
+g_105,Disaster Film
+g_105,katastrophe
+g_106,Political Thriller
+g_114,Satire
+g_115,Satire On Media
+g_116,Satire On War
+g_117,Political Satire
+g_121,Daffy Comedy
+g_121,Madcap Comedy
+g_121,Screwball Comedy Film
+g_122,Tragic Comedy Film
+g_122,Tragicomedy
+g_124,Slapstick
+g_124,Slapstick Comedy Film
+g_124,Splatstick
+g_124,Splatstick Comedy Film
+g_126,Romantic Comedy
+g_127,Marital Tragedy
+g_129,Coming Out
+g_130,Melodrama
+g_133,Family Saga
+g_134,Justice Drama
+g_135,Courtroom Drama
+g_135,Forensic
+g_136,Espionage
+g_136,Secret Agent
+g_136,Secret Service
+g_136,Spy
+g_138,Military Film
+g_141,Psychological Thriller
+g_142,Erotic Thriller
+g_144,Detective Film
+g_145,Pirate Film
+g_147,Cloak-And-Dagger Film
+g_147,Swashbuckler
+g_148,Swords and Sandals
+g_149,Monumental Film
+g_151,High Fantasy
+g_152,Sword And Sorcery
+g_154,Contemporary Fantasy
+g_154,Modern-Day Fantasy
+g_154,Urban Fantasy
+g_157,Gore Film
+g_157,Splatter Film
+g_157,Splatter Film / Gore Film
+g_158,Monster Film
+g_159,Aliens
+g_159,Extraterrestrial Monsters
+g_161,Werewolf
+g_161,Werewolve-Movie
+g_163,Vampiremovie
+g_163,Vampirfilm
+g_164,Zombiefilm
+g_165,Satanism
+g_166,Obsession
+g_168,Occult Horror Film
+g_169,Teen Horror Film
+g_170,Ghost-House-Movies
+g_170,Haunted House Film
+g_191,Italo-Western
+g_191,Spaghetti Western
+g_193,Samurai Film
+g_196,Cartoon
+g_196,Cel Animation
+g_196,Classical Animation
+g_196,Hand-Drawn Animation
+g_196,Traditional Animation
+g_197,Stop Motion
+g_202,Political Documentary
+g_204,Social Study
+g_205,Long Term Documentary
+g_206,Event Documentary
+g_208,Animal Documentary
+g_208,Nature Documentary
+g_209,Real Events
+g_209,Real Life
+g_209,True Story
+g_209,wahre Geschichte
+g_210,Biography
+g_218,Cyberpunk
+g_219,Psychodrama
+g_227,Nouvelle Vague
+g_241,Caper-Movie
+g_241,Heist
+g_241,Heist Film
+g_241,Stick-up
+g_245,Multiple Roles
+g_249,Mafia Film
+g_250,Caper Movie
+g_250,Caper-Movie
+g_251,Police Film
+g_252,Yakuza Film
+g_301,Black And White Film
+g_302,Art film
+g_302,Art House Film
+g_303,Independent Film
+g_329,Backflash
+g_329,Flashback
+g_329,R??ckblende
+g_353,Art Movie
+g_354,Experimental Film
+g_354,Experimentalfilm
+g_524,New German Film
+g_541,Anti Hero
+g_644,Film Noir
+g_655,Cameo
+g_656,Nameless Character
+g_684,Non-linear Timeline
+g_707,Tragedy
+g_807,First-Person Narrator
+g_818,Novel
+g_861,Bollywood Film
+g_863,B-Movie
+g_864,Boy Movie
+g_864,Dude Film
+g_864,Guy Movie
+g_865,Chick Flick
+g_866,Teen Film
+g_867,Adult
+g_869,Children's Film
+g_871,Explicit Language
+g_873,Sexually Explicit
+g_874,Violence
+g_878,Sci-Fi
+g_878,Science Fiction
+g_878,Science-Fiction
+g_878,SciFi
+g_939,Costume Film
+g_939,Period Costume Drama
+g_1024,Theater Play
+g_1024,Theatre Play
+g_1032,Flashforward
+g_1033,Dream Sequence
+g_1033,Traumsequenz
+g_1037,Realism
+g_1040,Surrealism
+g_1041,Minimalism
+g_1042,Lolita
+g_1043,Latin Lover
+g_1044,Tough Kid
+g_1045,Movie Stars
+g_1047,Guest Appearance
+g_1048,Femme Fatale
+g_1049,Super Hero
+g_1051,Lonely Hero
+g_1055,Character Actor
+g_1063,Motion Capture
+g_1071,Stop Motion
+g_1072,Split Screen
+g_1073,Voice Over
+g_1076,Jump Cutting
+g_1077,Cross Cutting
+g_1078,Associative Cutting
+g_1080,US-American Cinema
+g_1085,New Hollywood
+g_1087,Russian Cinema
+g_1088,Italian Cinema
+g_1096,School of Berlin
+g_1101,Italian New Realism
+g_1103,Surrealistic Film
+g_1104,Poetic Realism
+g_1107,New Soviet Film
+g_1108,Popcorn Movie
+g_1109,Mainstream
+g_1110,Classic
+g_1112,Pretty Hard Stuff
+g_1113,Special Interest
+g_1115,Road Movie
+g_1116,Silent Film
+g_1119,Episode Film
+g_1122,Kurzfilm
+g_1122,Short
+g_1122,Short Film
+g_1122,Short Subject
+g_1122,Shorty
+g_1123,Hommage
+g_1125,Criminal Comedy Film
+g_1126,Teen Comedy Film
+g_1133,Climax
+g_1134,Conflict
+g_1135,Key Scene
+g_1137,Happy End
+g_1137,Happy Ending
+g_1137,Vers??hnliches Ende
+g_1140,Frame Story
+g_1141,Cliffhanger
+g_1146,Protagonist
+g_1147,Antagonist
+g_1148,Over Acting
+g_1150,Arch of Suspense
+g_1150,Growing Suspense
+g_1150,Suspense
+g_1152,Developing
+g_1163,Widescreen
+g_1164,Cinemascope
+g_1165,Television
+g_1167,35-mm
+g_1168,16-mm
+g_1178,Actors Playing Themselves
+g_1180,Driving Shot
+g_1181,Crane Shot
+g_1182,Aerial Shot
+g_1185,Zoom
+g_1188,Sequence Shot
+g_1195,Hand Camera
+g_1203,Bird's Eye View
+g_1205,1st-person perspective
+g_1205,Point of View Shot
+g_1210,Steadycam
+g_1250,Student Film
+g_1479,Erotic Comedy Film
+g_1479,Raunchy comedy
+g_1505,Famous Score
+g_1597,Macho
+g_2370,Heimatfilm
+g_2370,Regional film
+g_2579,Sad Ending
+g_2579,Tragic Ending
+g_2579,Unhappy End
+g_2648,Polish Film School
+g_2712,High School Comedy Film
+g_2713,Comedy Of Mistaken Identity
+g_2717,Gebirgsschmonzette
+g_2717,Mountain Film
+g_2730,Buddy Cop
+g_2731,Buddy Film
+g_2731,Buddy Movie
+g_2737,Italian Crime Film
+g_2737,Italo Crime
+g_2737,poliziesco
+g_2738,Gangster Film
+g_2748,End Times Road Movie
+g_2759,Folk Tale
+g_2759,Folktale
+g_2774,Historical Fantasy
+g_2774,Pseudohistorical Fantasy
+g_2888,Farce
+g_2889,Fugitive Drama
+g_2889,Refugee Drama
+g_2890,Biographical Film
+g_2890,Biographical picture
+g_2890,Biopic
+g_2890,Film Biographie
+g_2891,Action Super Hero
+g_2891,Super Hero
+g_2892,Ninkyo Film
+g_2894,Modern Yakuza Film
+g_2895,Fairy Tale
+g_2896,Flop
+g_2915,Gross Out Film
+g_2915,Gross-Out Film
+g_2916,Erotic Film
+g_2926,W??xi??
+g_2926,Wuxia Film
+g_2932,Japanese Monster Movie
+g_2979,Hard Science Fiction
+g_2979,Hard SF
+g_2979,Scientific Science Fiction
+g_3004,Computer Game
+g_3004,Video Game
+g_3082,Ghost-Movie
+g_3083,Exorcism Film
+g_3084,Bible Film
+g_3087,Ninja Film
+g_3109,Sexploitation Film
+g_3110,Sex Film
+g_3111,Sex Education
+g_3114,Drama Documentary
+g_3115,Fake Documentary
+g_3115,Mockumentary
+g_3117,Making-Of Documentary
+g_3128,Legend
+g_3135,Novella
+g_3137,Narrative
+g_3138,Short Story
+g_3144,Comedy
+g_3145,Tragedy
+g_3148,Milestone
+g_3158,Intimate Play
+g_3159,Compilation Film
+g_3160,Franchise Film
+g_3162,Propaganda Film
+g_3163,Auteur movie
+g_3164,Debut Film
+g_3164,Debutfilm
+g_3164,Deb??tfilm
+g_3165,Black And White Film
+g_3166,Direct-to DVD movie
+g_3166,Direct-To-Video
+g_3166,Made-For-Video
+g_3166,Straight-To-Video
+g_3167,Film Produced For TV
+g_3167,Television Film
+g_3167,TV Film
+g_3168,Television Pilot
+g_3168,TV Pilot
+g_3172,Terrorism
+g_3898,Musical
+g_3918,injuries
+g_4220,Cinema Novo
+g_4221,Bangla Film
+g_4221,Bengali Film
+g_4844,very close shot
+g_4865,Slow Motion
+g_4865,Slowmotion
+g_4866,Dolby Surround
+g_4870,Score
+g_5702,Film im Film
+g_5702,Film in Film
+g_5702,Film-im-Film
+g_6033,Literary Fiction
+g_6033,Literature
+g_6352,Omniscient Narrator
+g_6366,Musicvideo
+g_6515,Claymation
+g_6522,Action figure
+g_6723,New Russian Film
+g_7141,Spanish Cinema
+g_7221,Direct-To-Internet Movie
+g_7285,Japan
+g_7286,Jidaigeki
+g_7402,Magic Realism
+g_7407,3D
+g_7424,Non-fiction
+g_7931,TV Show
+g_8497,Manga
+g_8741,children's book
+g_8990,Amateur Actors
+g_8990,Extra
+g_8990,Statist
+g_9120,Webcam
+g_9260,Average person
+g_9527,Music Album
+g_9595,Prague Spring
+g_10066,Twist in the End
+g_10067,Inflection
+g_10067,Inflexion
+g_10067,Surprise
+g_10067,Surprising Twist
+g_10067,Turning Point
+g_10105,Family Comedy
+g_10107,Sport
+g_10107,Sport Film
+g_10107,Sports Film
+g_10213,Emotions
+g_10213,Gef??hle
+g_10214,Exciting
+g_10215,Emotionen > Spannend
+g_10215,spannend
+g_10215,Spannung
+g_10215,Suspenseful
+g_10215,Tense
+g_10215,Thrilling
+g_10216,Funny
+g_10217,Feel-good
+g_10217,Good-humoured
+g_10217,Uplifting
+g_10218,Chilled
+g_10218,Entspannt
+g_10218,Laidback
+g_10218,Relaxed
+g_10218,Understated
+g_10219,Romantic
+g_10220,Erotic
+g_10220,Raunchy
+g_10220,Sexy
+g_10221,Ber??hrend
+g_10221,Emotional
+g_10221,Heartfelt
+g_10221,Sentimental
+g_10221,Touching
+g_10222,Intellectually Stimulating
+g_10222,Smart
+g_10223,Ernst
+g_10223,Serious
+g_10224,Downbeat
+g_10224,Miserable
+g_10224,Misery
+g_10224,Sad
+g_10225,Bleak
+g_10225,Dark
+g_10225,d??ster
+g_10225,Gloomy
+g_10225,Gritty
+g_10225,Hard-hitting
+g_10225,Rough
+g_10226,Creepy
+g_10226,Scary
+g_10226,Spine-chilling
+g_10226,unheimlich
+g_10227,Disquieting
+g_10227,Disturbing
+g_10227,Unsettling
+g_10227,Verst??rend
+g_10228,Goofy
+g_10228,Offbeat
+g_10228,Quirky
+g_10281,Academy Award Winner
+g_10282,Nominated for Academy Award
+g_10464,Remake
+g_10597,Open Ending
+g_11083,Hollywood Star
+g_13266,Unwilling Hero
+g_13544,Sitcom
+g_13547,Machismo
+g_13849,Homosexual Subtext
+g_14354,Couples film
+g_14414,Trash
+g_14415,Groteske
+g_14415,Grotesque
+g_14452,Musical
+g_14453,Concert film
+g_14666,Child Star
+g_14687,70mm
+g_14710,Torture Porn
+g_14726,Mono
+g_14727,Stereo
+g_14740,Live show/recording/take
+g_14926,Girls with Guns
+g_14999,Parodie
+g_14999,Parody
+g_15038,J-Horror
+g_15130,Asia-Horror
+g_15505,New Indian Cinema
+g_15505,Parallel Cinema
+g_15588,Cannes Winner
+g_16304,Horror comedy
+g_17126,Crime Comedy
+g_17321,Goya-Gewinner
+g_17322,Goya-Nominierung
+g_17580,Berlinale Winner
+g_18322,Mature
+g_18385,Action Comedy
+g_18606,Dramedy
+g_19454,Robinsonade
+g_19644,Conspiracy theory film
+g_3113,Reality Show
+g_3113,Reality Soap
+g_15520,Animated Film
+g_15520,Cartoon Anime
+g_2741,Knight's Tale
+g_2741,Knights Tale
+g_3118,Essay Film
+g_3118,Essayfilm
+g_15678,Travel documentary
+g_19717,Biographical documentary
+g_8708,comedy sketches
+g_8708,Sketch
+g_2729,Accident
+g_3108,Nudie Film
+g_14695,Exploitation Film
+g_2757,Low Fantasy
+g_18323,Parascientific Documentary
+g_18323,Pseudoscientific Documentary
+g_3119,Cultural Film
+g_1124,Anarchic Comedy Film
+g_89,Treasure Hunting
+g_14640,Soap Opera
+g_3123,Pen And Paper Game
+g_3123,Role-Playing Game
+g_200,Scientific Documentary
+g_7930,TV Magazine
+g_7932,TV report
+g_15774,Archival footage
+g_15774,Archive material
+g_15774,Stock footage
+g_862,Nollywood Film
+g_7929,Game Show
+g_15131,Superpowers
+g_6725,Thousand and One Nights
+g_2758,Art Fairy Tale
+g_2758,Art Fairy-Tale
+g_2758,Literary Fairy Tale
+g_2758,Literary Fairy-Tale
+g_15737,Mollywood Film
+g_15737,Mollywood-Film
+g_17412,Masked Vigilante
+g_18215,Pink Eiga
+g_18215,Pink film
+g_18215,Pinku eiga
+g_19602,Open World Game
+g_19604,3rd-person perspective
+g_19606,Singleplayer
+g_201,Investigative Documentary
+g_8530,Computer Generated Imagery
+g_1038,Expressionism
+g_3129,Saga
+g_15673,Sundance Winner
+g_4288,Animated Sequences
+g_4288,Animated Title Sequence
+g_190,Classical Western
+g_3112,Sex Report Film
+g_162,Cannibal-Movie
+g_3141,Fabel
+g_3141,Fable
+g_3127,Oral Tradition
+g_3127,??berlieferung
+g_1144,MacGuffin
+g_19609,Co-op
+g_14942,Historiendrama
+g_1086,neo-noir
+g_1249,Student Graduation Film
+g_16914,Heroic Bloodshed
+g_9496,Hong Kong
+g_10947,One Day
+g_868,Senior Citizens
+g_19648,Dokufiction
+g_2395,Blaxploitation
+g_3107,Lederhosen Film
+g_18847,Found Footage
+g_1093,DEFA-Film
+g_9636,Skandinavian Cinema
+g_18305,Shaky camera
+g_18305,Shaky-cam
+g_18304,Lost
+g_14711,Opera
+g_40,Late Western
+g_3146,Tragicomedy
+g_8867,Radio Play
+g_2746,Truck Film
+g_2746,Trucker Film
+g_1246,Digital Video
+g_16286,Giallo
+g_16186,Mumblecore
+g_19778,Grimme-Preis
+g_19772,Vorbehaltsfilm
+g_10106,Bad Cop
+g_2744,Motor-Bike Film
+g_2744,Motor-Cycle Film
+g_2744,Motorbike Film
+g_2744,Motorcycle Film
+g_17724,Mondo film
+g_7593,Production Code
+g_9031,Idealist
+g_1500,Real Time
+g_16918,Bruceploitation
+g_1823,Neue Sachlichkeit
+g_1823,New Objectivity
+g_18370,Fake
+g_1179,Swish Pan
+g_756,Wide-Angle Lens
+g_3142,Poem
+g_9181,Alter Ego
+g_1204,Worm's Eye View
+g_1840,Cin??ma V??rit??
+g_3139,Parable
+g_3147,Modern Theater Play
+g_3147,Modern Theatre Play
+g_1100,Free Cinema
+g_3081,Racing Film
+g_9728,New African Cinema
+g_3916,weather
+g_4840,long shot
+g_1089,Caligarism
+g_1105,Absolute Film
+g_1217,Hard Shadow
+g_17315,Kollywood-Film
+g_15191,Strange
+g_1050,Vamp
+g_19773,Fliegerfilm
+g_1187,Static Camera
+g_1580,Mexican Cinema
+g_14295,Nazi entertainment
+g_1282,Match Cut
+g_9779,Perspective
+g_1064,Fast Motion
+g_1064,Zeitraffer
+g_4843,close shot
+g_10461,Off-Stimme
+g_1221,Day for Night
+g_1062,Look
+g_3919,weapons
+g_15098,3D conversion
+g_9577,Cell Phone Camera
+g_9577,Mobile Phone Camera
+g_228,French Cinema
+g_1145,Character Acting
+g_1151,Character Development
+g_1214,Key Light
+g_1092,Post-War Tr??mmerfilm
+g_1070,Blue Screen
+g_1070,Chroma key
+g_1153,Not Developing
+g_1058,Color Grading
+g_1176,Macro View
+g_1061,Grain
+g_1207,Establishing Shot
+g_4863,180-degree rule
+g_4867,Sound Mixing
+g_4869,Sound Design
+g_6353,Heterodiegetic Narrator
+g_6353,Third Person Narrator
+g_3917,Pyrotechnics
+g_1149,Method Acting
+g_17505,Masala-Film
+g_1219,Overexposure
+g_8949,Starry-eyed idealist
+g_757,Stop Motion
+g_1066,Morphing
+g_1067,Rear Projection
